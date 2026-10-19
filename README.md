@@ -13,6 +13,8 @@ Fresher building in public across LLM apps, ML pipelines, data analysis and full
 | [jobtrackr](https://github.com/naveecode/jobtrackr) | Full-stack job tracker with auth and per-user data | Next.js 14, TypeScript, Auth.js, Prisma/Postgres | [demo](https://naveecode.github.io/jobtrackr/) |
 | [orderflow-api](https://github.com/naveecode/orderflow-api) | Order-management REST API with JWT auth, transactional order workflows and idempotent writes | Java 21, Spring Boot 3, Spring Security, JPA/PostgreSQL, Flyway, Testcontainers | [API docs](https://naveecode.github.io/orderflow-api/) |
 | [upabode](https://github.com/naveecode/upabode) | Rental listing finder with client-side search, filters and sort over sample homes, shipped as a static export | Next.js, TypeScript, Tailwind, Vitest | [demo](https://naveecode.github.io/upabode/) |
+| [ticketdesk-api](https://github.com/naveecode/ticketdesk-api) | Helpdesk REST API with JWT auth, Celery + Redis background jobs and LLM ticket triage | Python, Django, DRF, Celery, Redis, PostgreSQL | [live](https://naveecode.github.io/ticketdesk-api/) |
+| [vision-detect](https://github.com/naveecode/vision-detect) | Object detection pipeline: fine-tuned detector, ONNX export, FastAPI inference and an in-browser demo | PyTorch, OpenCV, ONNX, FastAPI | [demo](https://naveecode.github.io/vision-detect/) |
 
 ## Open source
 
@@ -21,4 +23,4 @@ Fresher building in public across LLM apps, ML pipelines, data analysis and full
 
 ## Skills
 
-Python · TypeScript · Java · SQL · FastAPI · LangGraph · MCP · RAG · Hugging Face · XGBoost · MLflow · Next.js · Spring Boot · Docker · Kubernetes · GitHub Actions
+Python · TypeScript · Java · SQL · FastAPI · LangGraph · MCP · RAG · Hugging Face · PyTorch · OpenCV · XGBoost · MLflow · Next.js · Django · Spring Boot · Docker · Kubernetes · GitHub Actions
